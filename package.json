@@ -1,0 +1,22 @@
+{
+  "name": "react-global-event-decorator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blainekasten/react-global-event-decorator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blainekasten/react-global-event-decorator/issues"
+  },
+  "homepage": "https://github.com/blainekasten/react-global-event-decorator#readme",
+  "dependencies": {
+    "invariant": "^2.1.1"
+  }
+}
