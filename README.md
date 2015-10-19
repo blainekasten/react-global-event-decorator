@@ -1,6 +1,11 @@
 # react-global-event-decorator
 An abuse of the decorator pattern
 
+### Install
+If you are feeling risky, go ahead and use this. You're an adult.
+
+`npm install --save react-global-event-decorator`
+
 ##### What is this for?
 Ever had a React component that needed to do things when you clicked anywhere in the DOM?
 
